@@ -1,0 +1,147 @@
+body,
+html {
+    background: #101820;
+    color: #101820;
+    font-size: 16px;
+    line-height: 1.8em;
+    margin: 0;
+    overflow-x: hidden;
+    padding: 0;
+}
+
+hr {
+    width: 70%;
+    color: #101820;
+    border-top: 1px solid #101820;
+}
+
+a {
+    text-decoration: none;
+    color: #8a2a2b;
+}
+
+a:hover {
+    color: #f2c763;
+}
+
+#title-a {
+    text-decoration: none;
+}
+
+h1 {
+    font-family: "Noto Sans KR", "Noto Sans", sans-serif;
+    font-weight: 500;
+    color: #101820;
+    font-size: 1.5em;
+    word-break: keep-all;
+}
+
+h2 {
+    font-family: "Noto Sans KR", "Noto Sans", sans-serif;
+    font-weight: 500;
+    color: #101820;
+    font-size: 1.25em;
+    word-break: keep-all;
+}
+
+ul {
+    list-style: square;
+    font-family: "Noto Sans KR", "Noto Sans", sans-serif;
+    font-weight: 300;
+    color: #101820;
+    font-size: 1.25em;
+    word-break: keep-all;
+}
+
+ul.sublist {
+    list-style: none;
+    padding-left: 1em;
+    font-size: 1em;
+}
+
+li {
+    line-height: 1.8em;
+}
+
+p {
+    font-family: "Noto Sans KR", "Noto Sans", sans-serif;
+    font-weight: 300;
+    color: #101820;
+    font-size: 1.25em;
+    word-break: keep-all;
+}
+
+p.menu {
+    font-family: "Noto Sans KR", "Noto Sans", sans-serif;
+    font-weight: 300;
+    color: #101820;
+    font-size: 1.5em;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+p.menu:hover {
+    color: silver;
+}
+
+p.title {
+    font-family: "Noto Sans KR", "Noto Sans", sans-serif;
+    font-weight: 900;
+    color: #101820;
+    font-size: 1.75em;
+    margin-top: 0.25em;
+    margin-bottom: 0.25em;
+    text-align: justify;
+    text-align-last: justify;
+    word-break: keep-all;
+}
+
+#header_container {
+    margin: 0 55% 0 15%;
+    width: 30%;
+    display: block;
+}
+
+#menu_container {
+    margin: 0 15% 0 15%;
+    width: 70%;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    gap: 20px;
+}
+
+#body_container {
+    margin: 0 15% 0 15%;
+    width: 70%;
+    text-align: justify;
+    display: block;
+}
+
+blockquote {
+    border-left: 3px solid #101820;
+    color: #101820;
+    font-family: "Noto Sans KR", "Noto Sans", sans-serif;
+    font-size: 1.125em;
+    line-height: 1.8em;
+    margin: 4px 64px;
+    padding: 16px 32px;
+    position: relative;
+    transition: .2s border ease-in-out;
+    text-align: justify;
+    z-index: 0;
+}
+
+blockquote.code {
+    background: silver;
+    font-family: "Hack", "monospace";
+    font-size: 1em;
+}
+
+cite {
+    display: block;
+    font-size: 0.75em;
+    line-height: 1.8em;
+    margin-top: 1em;
+}
