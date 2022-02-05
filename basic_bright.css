@@ -134,7 +134,10 @@ blockquote {
     z-index: 0;
 }
 
-blockquote.code-quote {
+code {
+    border-left: 3px solid #101820 !important;
+    margin: 4px 64px !important;
+    padding: 16px 32px !important;
     background: silver !important;
     font-family: "Hack", "monospace" !important;
     font-size: 1em;
