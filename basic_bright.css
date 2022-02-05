@@ -1,3 +1,4 @@
+@import url("https://cdn.jsdelivr.net/npm/hack-font@2/build/web/hack.css");
 body,
 html {
     background: #101820;
@@ -125,8 +126,8 @@ blockquote {
     font-family: "Noto Sans KR", "Noto Sans", sans-serif;
     font-size: 1.125em;
     line-height: 1.8em;
-    margin: 4px 64px;
-    padding: 16px 32px;
+    margin: 4px 64px !important;
+    padding: 16px 32px !important;
     position: relative;
     transition: .2s border ease-in-out;
     text-align: justify;
@@ -134,8 +135,8 @@ blockquote {
 }
 
 blockquote.code {
-    background: silver;
-    font-family: "Hack", "monospace";
+    background: silver !important;
+    font-family: "Hack", "monospace" !important;
     font-size: 1em;
 }
 
