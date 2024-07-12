@@ -1,0 +1,27 @@
+body {
+    text-align: justify;
+}
+
+.nav::after {
+    background-color: #f2c763;
+    content: "";
+    height: 1px;
+    left: 0;
+    position: relative;
+    width: 100%;
+}
+
+img {
+    max-width: 70%;
+}
+
+img[src*="#center"] {
+    margin: 0.2rem auto !important;
+}
+
+figcaption {
+    width: 70%;
+    margin: auto !important;
+    text-align: right;
+    font-family: var(--font-sans);
+}

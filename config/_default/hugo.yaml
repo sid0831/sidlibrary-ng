@@ -1,0 +1,122 @@
+baseURL: "https://sidlibrary.org/"
+defaultContentLanguage: en
+
+enableRobotsTXT: true
+paginate: 10
+summaryLength: 0
+
+outputs:
+  home:
+    - html
+    - rss
+    - json
+
+theme: "PaperMod"
+_merge: shallow
+
+params:
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: false
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  author:
+    name: "Sidney Jeong"
+    # image: "assets/logo.png"
+    headline: "A weirdo"
+      
+  titleCaseStyle: chicago
+
+  defaultTheme: auto
+  disableThemeToggle: false
+  
+  homeInfoParams:
+    Title: "&#129504; We must think! But what we must?"
+    Content: Hello there! I'm Sidney Jeong, a neurodivergent queer tech worker who decided to leave academic world of social science years ago for this new journey.
+    
+  profileMode:
+    enabled: true
+    title: Sidney Jeong
+    subtitle: |
+      Neurodivergent queer. Tech worker. Nerd.
+
+      We must think! But what we must? &#129504;
+    imageUrl: "logo.png"
+    imageTitle: The logo of this blog 
+
+  socialIcons:
+    - name: email
+      url: "mailto:jeong.sid@sidlibrary.org"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/sidney-jeong-56b52449/"
+    - name: github
+      url: "https://github.com/sid0831"
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    limit: 10 
+    keys: ["title", "permalink", "summary", "content"]
+
+  pygmentsUseClasses: true
+
+markup:
+  highlight:
+    noClasses: false
+    tabWidth: 2
+
+languages:
+  en:
+    languageCode: en
+    languageName: English
+    languageDirection: ltr
+    weight: 1
+
+    title: "The Discouraged Revolutionary's Hidden Den"
+
+    params:
+      dateFormat: "2 January 2006"
+      description: "The den for evidence-based revolution"
+    
+    menu:
+      main:
+        - identifier: home
+          name: Home
+          pageRef: /
+          weight: 1
+        - identifier: tech
+          name: Tech
+          pageRef: /blog/tech/
+          weight: 10
+        - identifier: thought-pastebin
+          name: Thought Pastebin
+          pageRef: /blog/thought-pastebin/
+          weight: 20
+        - identifier: travel
+          name: Travel
+          pageRef: /blog/travel/
+          weight: 30
+        - identifier: kpop
+          name: K-Pop
+          pageRef: /blog/kpop/
+          weight: 40
+        - identifier: about-me
+          name: About Me
+          url: /about-me/
+          weight: 50
+    
