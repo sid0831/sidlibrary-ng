@@ -27,16 +27,16 @@ I am also a great fan of [Dreamcatcher](https://en.wikipedia.org/wiki/Dreamcatch
 
 ## Experience
 
-* **EB Tech Net**, Seoul, South Korea
+* [**EB Tech Net**](http://ebtechnet.co.kr/), Seoul, South Korea
   * Oct 2019 - May 2020, Systems Engineer
   * Did a technical support / pre-sales concerning early contact of reselling an HPC cloud service based in the US while also doing the technical support for customers needing it for installing and maintaining the servers. Customers included: Samsung SDS, LG U+, Hyundai Maritime Insurance, Korea Environment Corporation.
-* **PersolKelly Korea**, Seoul, South Korea
+* [**PersolKelly Korea (now Persol Korea)**](https://www.persolkr.com/), Seoul, South Korea
   * Jul 2020 - Dec 2021, Data Centre Operations Technician
   * As a Temp Operations Technician on-site at Google, I did builds, deployments, repairs, and ticket-based problem solving independent to full-time employees, in overlapping but smaller scope.
-* **DXC Luxoft**, Seoul, South Korea
+* [**DXC Luxoft**](https://www.luxoft.com/), Seoul, South Korea
   * Feb 2022 - April 2023, Technical Consultant (Configuration and Environmental Management)
   * As a regular configuration and environment management consultant, I performed setting up, managing configurations, and troubleshooting issues regarding development, staging, and rehearsal environments for Murex and related third-party software.
-* **Amazon Web Services Korea**, Seoul, South Korea
+* [**Amazon Web Services**](https://aws.amazon.com/), Seoul, South Korea
   * As a Linux profile Cloud Support Associate in Language Support - Korean team, I'm resolving customer cases of EC2 - Linux, EBS, and other related services in Korean and English languages.
   * This blog is by no means affilliated with Amazon, Inc., Amazon Web Services, Inc., or their affilliates.
 

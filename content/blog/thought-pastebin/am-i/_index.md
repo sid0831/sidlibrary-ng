@@ -2,8 +2,6 @@
 date: 2022-12-29T00:00:00+09:00
 title: "Neurodiversity at Work: Am I 'Extraordinary Engineer Jeong'?"
 draft: false
-params:
-  author: Sidney Jeong
 ---
 Many neurodivergent people say just being themselves at work is an extremely hard and miserable task for everyone including themselves. Even though ASD and ADHD tendency differ in behaviour and thought structure, there is at least one thing common in the two big neurodivergent spectrum tendency – that the owners of the traits are often considered 'weird' or 'extraordinary' (in both positive and negative meanings) from neurotypical people.
 
