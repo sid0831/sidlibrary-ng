@@ -15,10 +15,12 @@
 .footer span {
     margin-inline-start: 1px;
     margin-inline-end: 1px;
+    line-height: 1.4;
 }
 
 .footer span:last-child {
-    white-space: nowrap;
+    word-break: keep-all;
+    white-space: wrap;
 }
 
 .footer a {
