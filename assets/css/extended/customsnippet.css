@@ -1,27 +1,65 @@
-body {
-    text-align: justify;
+@media screen and (max-width: 768px) {
+  :root {
+    --gap: 8px;
+  }
+  
+  .logo a {
+    max-width: 80%;
+  }
+  
+  .logo-switches {
+    margin: auto 4px;
+  }
+  
+  #menu {
+    margin: auto;
+  }
+}
+
+@media screen and (min-width: 769px) {
+  .logo-switches {
+    margin: auto 14px;
+  }
+}
+
+.post-content {
+  text-align: justify;
+}
+
+.nav,
+.logo {
+  justify-content: space-between;
+}
+
+.logo a {
+  margin-top: 0.8rem;
+  line-height: 120%;
+}
+
+#menu {
+  flex-flow: row nowrap;
 }
 
 .nav::after {
-    background-color: #f2c763;
-    content: "";
-    height: 1px;
-    left: 0;
-    position: relative;
-    width: 100%;
+  background-color: #f2c763;
+  content: "";
+  height: 1px;
+  left: 0;
+  position: relative;
+  width: 100%;
 }
 
 img {
-    max-width: 70%;
+  max-width: 70%;
 }
 
 img[src*="#center"] {
-    margin: 0.2rem auto !important;
+  margin: 0.2rem auto !important;
 }
 
 figcaption {
-    width: 70%;
-    margin: auto !important;
-    text-align: right;
-    font-family: var(--font-sans);
+  width: 70%;
+  margin: auto !important;
+  text-align: right;
+  font-family: var(--font-sans);
 }

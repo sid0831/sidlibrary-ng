@@ -1,4 +1,5 @@
 ---
+title: Tech
 draft: false
 ---
-Techy stuff
+Techy stuff goes here.
