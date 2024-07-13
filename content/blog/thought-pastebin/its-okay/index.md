@@ -1,6 +1,6 @@
 ---
 date: 2024-07-13T19:00:00+09:00
-title: "It's okay to be not okay"
+title: "Breathe: It's okay to be not okay"
 draft: false
 summary: "Although it feels not okay to take a good rest, it is often better in the long run."
 ---
