@@ -1,5 +1,5 @@
 {{- /* Comments area start */ -}}
-{{- if and site.Config.Services.Disqus.Shortname .Params.commentsEnabled }}
-  {{- template "_internal/disqus.html" . -}}
+{{- if and .Params.commentsEnabled site.Config.Services.Disqus.Shortname -}}
+  {{ template "_internal/disqus.html" . }}
 {{- end }}
 {{- /* Comments area end */ -}}
