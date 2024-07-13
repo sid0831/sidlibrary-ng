@@ -1,8 +1,11 @@
 ---
 date: 2022-12-29T00:00:00+09:00
 title: "Neurodiversity at Work: Am I 'Extraordinary Engineer Jeong'?"
+summary: "Neurodivergent people encounter challenges at workplaces."
 draft: false
 ---
+{{< figure src="neurodiversity.png#center" caption="Neurodiversity art. Artwork by [MissLunaRose12](https://commons.wikimedia.org/wiki/User:MissLunaRose12)/[Wikimedia Commons](https://commons.wikimedia.org/)" >}}
+
 Many neurodivergent people say just being themselves at work is an extremely hard and miserable task for everyone including themselves. Even though ASD and ADHD tendency differ in behaviour and thought structure, there is at least one thing common in the two big neurodivergent spectrum tendency – that the owners of the traits are often considered 'weird' or 'extraordinary' (in both positive and negative meanings) from neurotypical people.
 
 Recently, there was a big K-Drama series that attracted a lot of watchers globally, and it was called Extraordinary Attorney Woo, that featured a lawyer and autistic woman named Woo Young-woo. People started to say the character is adorable, but it was merely a consumption of an image portrayed by the character. In your empirical world that you live in and you feel pain (OH WAIT, AM I THE ONLY ONE FEELING PAIN?), it's drastically different.

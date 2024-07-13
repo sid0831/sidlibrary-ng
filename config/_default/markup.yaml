@@ -22,4 +22,7 @@ goldmark:
     unsafe: true
 highlight:
   noClasses: false
+  guessSyntax: true
+  lineNos: true
+  lineNumbersInTable: true
   tabWidth: 2

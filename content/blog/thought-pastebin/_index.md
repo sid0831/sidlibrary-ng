@@ -1,6 +1,10 @@
 ---
 title: Thought Pastebin
 draft: false
+summary: "Pastebin for my thoughts."
+weight: 20
+params:
+  hidemeta: true
 ---
 {{< figure src="jess-bailey-y7GlIdTUOvo-unsplash.jpg#center" caption="Picture of a notepad titled 'Journal'. Photo by [Jess Bailey](https://unsplash.com/@jessbaileydesigns)/[Unsplash](https://unsplash.com)" >}}
 

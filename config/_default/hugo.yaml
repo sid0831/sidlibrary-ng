@@ -47,11 +47,11 @@ params:
     title: |
       We must think! But what we must?
     subtitle: |
-      Hello there! I'm Sidney Jeong, a neurodivergent queer tech worker who decided to leave the world of academia in social science many years ago for this new journey of career.      
-      <br />
+      Hello there! I'm Sidney Jeong, a neurodivergent queer tech worker who decided to leave the world of academia in social science many years ago for this new journey of career and life.
+
       <span style="font-size: 12px; font-style: italic;">Please note that the blog is going under an overhaul. I'll try to fill the contents back soon.</span>
     imageUrl: "logo.png"
-    imageTitle: The logo of this blog 
+    imageTitle: The logo of this blog. It is an imaginary coat of arms of the Republic of Dreamcatcher.
 
   socialIcons:
     - name: email
@@ -73,6 +73,9 @@ params:
 
   pygmentsUseClasses: true
 
+  assets:
+    disableHLJS: true
+
 languages:
   en:
     languageCode: en
@@ -92,27 +95,19 @@ languages:
           name: Home
           pageRef: /
           weight: 1
-        - identifier: tech
-          name: Tech
-          pageRef: /blog/tech/
+        - identifier: blog
+          name: Blog
+          pageRef: /blog/
           weight: 10
-        - identifier: thought-pastebin
-          name: Thought Pastebin
-          pageRef: /blog/thought-pastebin/
+        - identifier: archives
+          name: Archives
+          url: /archives/
           weight: 20
-        - identifier: travel
-          name: Travel
-          pageRef: /blog/travel/
+        - identifier: search
+          name: Search
+          url: /search/
           weight: 30
-        - identifier: kpop
-          name: K-Pop
-          pageRef: /blog/kpop/
-          weight: 40
         - identifier: about-me
           name: About Me
           url: /about-me/
-          weight: 50
-
-services:
-  disqus:
-    shortname: sidlibrary
+          weight: 40
