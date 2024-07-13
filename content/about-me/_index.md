@@ -18,12 +18,13 @@ I am also a great fan of [Dreamcatcher](https://en.wikipedia.org/wiki/Dreamcatch
 
 ## Education
 
-* **Sungkyunkwan University**, Seoul, South Korea
+* [**Sungkyunkwan University**](https://www.skku.edu/eng/), Seoul, South Korea
   * 2007-2012, Bachelor of Arts in Sociology and Oriental Studies
-* **Seoul National University**, Seoul, South Korea
+* [**Seoul National University**](https://en.snu.ac.kr/), Seoul, South Korea
   * 2012-2018, Master of Arts in Sociology (_Incomplete_)
   * Incomplete due to financial challenges
-* **Busan IT Training Centre**, Busan, South Korea
+* [**Busan IT Training Centre**](https://www.busanit.ac.kr/), Busan, South Korea
+  * Completed IT Job training course
 
 ## Experience
 
@@ -43,5 +44,5 @@ I am also a great fan of [Dreamcatcher](https://en.wikipedia.org/wiki/Dreamcatch
 ## To do
 
 * [ ] Improve GitHub profile and repositories.
-* [ ] Revive the [blog](https://www.sidlibrary.org).
-* [x] Survive.
+* [ ] Revive the [blog](https://www.sidlibrary.org) and fill with more contents.
+* [x] Survive in this world.

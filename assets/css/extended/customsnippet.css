@@ -1,25 +1,25 @@
-@media screen and (max-width: 768px) {
-  :root {
-    --gap: 8px;
-  }
-  
-  .logo a {
-    max-width: 80%;
-  }
-  
-  .logo-switches {
-    margin: auto 4px;
-  }
-  
-  #menu {
-    margin: auto;
-  }
+
+.main {
+  min-height: fit-content;
 }
 
-@media screen and (min-width: 769px) {
-  .logo-switches {
-    margin: auto 14px;
-  }
+.main .profile {
+  margin-top: 25vh;
+  margin-bottom: calc(var(--gap) * 2);
+}
+
+.main .profile,
+.profile .profile_inner {
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: justify;
+  word-break: keep-all;
+  min-height: fit-content;
+}
+
+.profile span {
+  font-family: var(--font-serif);
+  padding-right: 30%;
 }
 
 .post-content {
@@ -88,4 +88,42 @@ figcaption {
 
 .post-content figure > figcaption > p {
   font-size: 12px !important;
+}
+
+@media screen and (max-width: 768px) {
+  :root {
+    --gap: 8px;
+  }
+  
+  .main .profile,
+  .profile .profile_inner {
+    text-align: left;
+  }
+  
+  .profile h1 {
+    padding-right: 20%;
+  }
+
+  .profile span {
+    text-align: justify;
+    padding-right: 0;
+  }
+  
+  .logo a {
+    max-width: 80%;
+  }
+  
+  .logo-switches {
+    margin: auto 4px;
+  }
+  
+  #menu {
+    margin: auto;
+  }
+}
+
+@media screen and (min-width: 769px) {
+  .logo-switches {
+    margin: auto 14px;
+  }
 }

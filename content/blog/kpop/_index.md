@@ -2,4 +2,6 @@
 title: K-Pop
 draft: false
 ---
-I like K-Pop, and I like to talk about it. That's pretty much it.
+{{< figure src="CourtneyKill-Dreamcatcher-181.jpg#center" caption="Picture of 2022 concert by a K-Pop girl groul [Dreamcatcher](https://en.wikipedia.org/wiki/Dreamcatcher_(group)). &copy; 2022 [Courtney Kill](https://www.courtneykill.com). All rights reserved. Using under explicit grant." >}}
+
+I like K-Pop, especially Dreamcatcher. and I like to talk about it. That's pretty much it.

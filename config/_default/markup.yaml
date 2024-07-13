@@ -1,0 +1,25 @@
+goldmark:
+  extensions:
+    extras:
+      delete:
+        enable: true
+      insert:
+        enable: true
+      mark:
+        enable: true
+      subscript:
+        enable: true
+      superscript:
+        enable: true
+    definitionList: true
+    footnote: true
+    strikethrough: true
+    table: true
+  parser:
+    autoHeadingID: true
+    autoHeadingIDType: github
+  renderer:
+    unsafe: true
+highlight:
+  noClasses: false
+  tabWidth: 2
