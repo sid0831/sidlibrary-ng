@@ -2,7 +2,7 @@
 draft: false
 title: About Me
 params:
-  author: Sidney Jeong
+  comments: false
 ---
 {{< figure src="seoul.jpg#center" caption="The city of Seoul is my hometown. Photo by [Ethan Brooke](https://unsplash.com/@seoulinspired)/[Unsplash](https://unsplash.com)" >}}
 

@@ -1,5 +1,7 @@
 ---
 title: "Archives"
 layout: "archives"
-summary: archives
+summary: "Archives of my blog."
+params:
+  comments: false
 ---

@@ -5,6 +5,7 @@ summary: "Techy stuff goes here."
 weight: 10
 params:
   hidemeta: true
+  comments: false
 ---
 {{< figure src="mark-zeller-fgGhlFs3JDM-unsplash.jpg#center" caption="Picture of inside a server. Photo by [Mark Zeller](https://unsplash.com/@datamaze)/[Unsplash](https://unsplash.com)" >}}
 
