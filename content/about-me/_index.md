@@ -44,5 +44,5 @@ I am also a great fan of [Dreamcatcher](https://en.wikipedia.org/wiki/Dreamcatch
 ## To do
 
 * [ ] Improve GitHub profile and repositories.
-* [ ] Revive the [blog](https://www.sidlibrary.org) and fill with more contents.
+* [ ] Revive this blog and fill with more contents.
 * [x] Survive in this world.
