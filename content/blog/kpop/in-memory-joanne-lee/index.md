@@ -3,6 +3,8 @@ date: 2023-12-02T22:00:00+09:00
 title: "In Memory of Joanne Lee"
 summary: "A short story in memory of the Korean-American singer Joanne Lee (1988-2014)."
 draft: false
+params:
+  commentsEnabled: true
 ---
 {{< youtube id="vLkqskVtrkc" title="The stage footage of Joanne, a Korean-American singer." loading=lazy >}}
 <p style="flex-basis: 100%; font-family: var(--font-sans); font-size: 12px; text-align: right; margin-top: 0.2rem; margin-bottom: 1rem;">Joanne Lee singing her debut song <i>A Shiny Day</i> on the broadcast stage. She got in a terrible car accident and passed away in 2014.</p>

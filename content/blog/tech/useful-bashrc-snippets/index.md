@@ -3,6 +3,8 @@ date: 2023-10-10T09:00:00+09:00
 title: "Useful .bashrc snippets"
 summary: "Useful .bashrc snippets I actually use every day."
 draft: false
+params:
+  commentsEnabled: true
 ---
 As a satisfied user of [Arch Linux](https://www.archlinux.org/) (relax, I am not your stereotypical toxic Arch user), I use Linux every day for my personal life (I have MacBook for work &#129326;). Here are useful `.bashrc` snippets from my actual `.bashrc`, for everyday Linux life.
 

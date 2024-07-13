@@ -3,6 +3,8 @@ date: 2022-12-29T00:00:00+09:00
 title: "Neurodiversity at Work: Am I 'Extraordinary Engineer Jeong'?"
 summary: "Neurodivergent people encounter challenges at workplaces."
 draft: false
+params:
+  commentsEnabled: true
 ---
 {{< figure src="neurodiversity.png#center" caption="Neurodiversity art. Artwork by [MissLunaRose12](https://commons.wikimedia.org/wiki/User:MissLunaRose12)/[Wikimedia Commons](https://commons.wikimedia.org/)" >}}
 

@@ -3,6 +3,8 @@ date: 2024-07-13T19:00:00+09:00
 title: "Breathe: It's okay to be not okay"
 draft: false
 summary: "Although it feels not okay to take a good rest, it is often better in the long run."
+params:
+  commentsEnabled: true
 ---
 {{< youtube id=NO4g1hoYWFw title="Lee Hi singing her song 'Breathe' at the 2017 Golden Disk Awards." loading=lazy >}}
 <p style="flex-basis: 100%; font-family: var(--font-sans); font-size: 12px; text-align: right; margin-top: 0.2rem; margin-bottom: 1rem;">Lee Hi singing her song <i>Breathe</i> at the 2017 Golden Disk Awards. The composer of this song was Jonghyun, who passed away a few days ago of this stage.</p>

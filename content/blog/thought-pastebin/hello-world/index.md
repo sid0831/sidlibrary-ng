@@ -3,6 +3,8 @@ date: 2022-08-18T00:00:00+09:00
 title: "Hello World!"
 draft: false
 summary: "A start of new blog."
+params:
+  commentsEnabled: true
 ---
 {{< figure src="pablo-gentile-3MYvgsH1uK0-unsplash.jpg#center" caption="A neon sign featuring the word 'hello'. Photo by [Pablo Gentile](https://unsplash.com/@polhow)/[Unsplash](https://unsplash.com)" >}}
 
