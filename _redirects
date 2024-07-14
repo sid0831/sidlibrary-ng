@@ -1,4 +1,4 @@
-http://sidlibrary.org     https://www.sidlibrary.org         308
-https://sidlibrary.org    https://www.sidlibrary.org         308
-http://sidlibrary.org/*   https://www.sidlibrary.org/:splat  308
-https://sidlibrary.org/*  https://www.sidlibrary.org/:splat  308
+http://sidlibrary.org     https://www.sidlibrary.org         301
+https://sidlibrary.org    https://www.sidlibrary.org         301
+http://sidlibrary.org/*   https://www.sidlibrary.org/:splat  301
+https://sidlibrary.org/*  https://www.sidlibrary.org/:splat  301
