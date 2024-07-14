@@ -1,9 +1,9 @@
-baseURL: "https://sidlibrary.org/"
+baseURL: "https://www.sidlibrary.org/"
 defaultContentLanguage: en
 
 enableRobotsTXT: true
 paginate: 10
-summaryLength: 0
+summaryLength: 60
 
 outputs:
   home:
