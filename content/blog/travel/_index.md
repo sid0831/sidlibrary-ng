@@ -5,6 +5,7 @@ summary: "Travel logs."
 weight: 30
 params:
   commentsEnabled: false
+  hidemeta: true
 ---
 {{< figure src="manki-kim-lEtzj7ey3qw-unsplash.jpg#center" caption="Picture of a passenger terminal from Incheon International Airport. Photo by [Manki Kim](https://unsplash.com/@kimdonkey)/[Unsplash](https://unsplash.com)" >}}
 
