@@ -28,7 +28,7 @@ _Note 3: Actually, ghost now supports exporting the whole content in JSON format
 
 Again of course, issuing `backup` three times is not how you do the backup unless you actually have automated backups with that command; for the convenience of explanation, let's say the ghost installation is located on `/srv/ghost/` and you're using either mariadb or mysql with a database named `ghost` _(Ghost recommends mysql over mariadb because of its JSON data type related features, as far as I know, so we will be using mysql on the new setup anyway – Don't be sad, I prefer mariadb over mysql too -- of course below postgresql)_.
 
-Backing up the application is quite simple. You just dump your ghost database with this command first. 
+Backing up the application is quite simple. You just dump your ghost database with this command first.
 
 ```bash
 $ sudo mysqldump ghost > ghost_$(date --iso-8601=date).sql
