@@ -1,121 +1,151 @@
 
 .main {
   min-height: fit-content;
-}
 
-.main .profile {
-  margin-top: 25vh;
-  margin-bottom: calc(var(--gap) * 2);
-}
+  .profile {
+    margin-top: 25vh;
+    margin-bottom: calc(var(--gap) * 2);
 
-.main .profile,
-.profile .profile_inner {
-  align-items: flex-start;
-  justify-content: flex-start;
-  text-align: justify;
-  word-break: keep-all;
-  min-height: fit-content;
-}
+    &,
+    .profile_inner {
+      align-items: flex-start;
+      justify-content: flex-start;
+      text-align: justify;
+      word-break: keep-all;
+      min-height: fit-content;
+    }
 
-.profile span {
-  font-family: var(--font-serif);
-  padding-right: 30%;
+    span {
+      font-family: var(--font-serif);
+      padding-right: 30%;
+    }
+  }
+
+  pre {
+    font-family: var(--font-mono);
+  }
 }
 
 .post-content {
   text-align: justify;
 }
 
-.post-content a,
-.footer a {
-  box-shadow: none;
-  border-bottom: none !important;
-  text-decoration: 1px dotted underline;
+.post-content,
+.footer {
+  a {
+    box-shadow: none;
+    border-bottom: none !important;
+    text-decoration: dotted underline var(--primary) 1px;
+
+    &:hover {
+      text-decoration: solid underline var(--primary) 1px;
+    }
+    
+    /* from https://stackoverflow.com/a/5379820 */
+    /* automatic external link marker */
+    &[href]:not(:where(
+      [href^="#"],
+      [href^="javascript:" i],
+      [href^="/"]:not([href^="//"]),
+      [href*="//sidlibrary.org"],
+      [href*="//www.sidlibrary.org"]
+    ))::after {
+      content: '';
+      background: no-repeat url("data:image/svg+xml, %3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20'%3E%3Cstyle%3E g%7Bstroke:%23101820;stroke-width:1;%7D %3C/style%3E%3Cg%3E%3Cline x1='5' y1='5' x2='5' y2='14' /%3E%3Cline x1='14' y1='9' x2='14' y2='14' /%3E%3Cline x1='5' y1='14' x2='14' y2='14' /%3E%3Cline x1='5' y1='5' x2='9' y2='5' /%3E%3Cline x1='10' y1='2' x2='17' y2='2' /%3E%3Cline x1='17' y1='2' x2='17' y2='9' /%3E%3Cline x1='10' y1='9' x2='17' y2='2' style='stroke-width:1.5' /%3E%3C/g%3E%3C/svg%3E");
+      padding-right: 0.7rem;
+    }
+  }
+
+  figure > figcaption,
+  figcaption {
+    width: 70%;
+    margin: auto !important;
+    text-align: right;
+    font-family: var(--font-sans);
+
+    > p {
+      font-size: 12px !important;
+    }
+  }
+
+  .highlight pre code {
+    white-space: pre-wrap;
+  }
 }
 
-.post-content a:hover,
-.footer a:hover {
-  text-decoration: 1px solid underline;
+.nav {
+  &,
+  .logo {
+    justify-content: space-between;
+  }
+
+  .logo {
+    a {
+      margin: auto 0;
+      line-height: 120%;
+    }
+
+    .logo-switches {
+      flex-wrap: nowrap;
+      align-content: center;
+      margin: auto 4px;
+
+      .lang-switch {
+        ul,
+        li {
+          text-wrap: nowrap;
+          white-space: nowrap;
+        }
+
+        a {
+          margin: 0;
+        }
+      }
+    }
+  }
+
+  &::after {
+    background-color: #8a2a2b;
+    content: "";
+    height: 1px;
+    left: 0;
+    position: relative;
+    width: 100%;
+  }
 }
 
-/* from https://stackoverflow.com/a/5379820 */
-/* automatic external link marker */
+/* dark mode specifics */
+.dark {
+  .nav::after {
+    background-color: #f2c763;
+  }
 
-.post-content a[href]:not(:where(
-  [href^="#"],
-  [href^="javascript:" i],
-  [href^="/"]:not([href^="//"]),
-  [href*="//sidlibrary.org"],
-  [href*="//www.sidlibrary.org"],
-)):after {
-  content: '';
-  background: no-repeat url('data:image/svg+xml, <svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 20 20"> <g style="stroke:rgb(16,24,32);stroke-width:1"> <line x1="5" y1="5" x2="5" y2="14" /> <line x1="14" y1="9" x2="14" y2="14" /> <line x1="5" y1="14" x2="14" y2="14" /> <line x1="5" y1="5" x2="9" y2="5" />	<line x1="10" y1="2" x2="17" y2="2" /> <line x1="17" y1="2" x2="17" y2="9" /> <line x1="10" y1="9" x2="17" y2="2" style="stroke-width:1.5" /> </g> </svg>');
-  padding-right: 0.7rem;
-}
-
-.dark .post-content a[href]:not(:where(
-  [href^="#"],
-  [href^="javascript:" i],
-  [href^="/"]:not([href^="//"]),
-  [href*="//sidlibrary.org"],
-  [href*="//www.sidlibrary.org"],
-)):after {
-  background: no-repeat url('data:image/svg+xml, <svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 20 20"> <g style="stroke:rgb(218,218,219);stroke-width:1"> <line x1="5" y1="5" x2="5" y2="14" /> <line x1="14" y1="9" x2="14" y2="14" /> <line x1="5" y1="14" x2="14" y2="14" /> <line x1="5" y1="5" x2="9" y2="5" />	<line x1="10" y1="2" x2="17" y2="2" /> <line x1="17" y1="2" x2="17" y2="9" /> <line x1="10" y1="9" x2="17" y2="2" style="stroke-width:1.5" /> </g> </svg>'); 
-}
-
-.nav,
-.logo {
-  justify-content: space-between;
-}
-
-.logo a {
-  margin-top: 0.8rem;
-  line-height: 120%;
+  .post-content,
+  .footer {
+    a[href]:not(:where(
+      [href^="#"],
+      [href^="javascript:" i],
+      [href^="/"]:not([href^="//"]),
+      [href*="//sidlibrary.org"],
+      [href*="//www.sidlibrary.org"]
+    ))::after {
+      content: '';
+      background: no-repeat url("data:image/svg+xml, %3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20'%3E%3Cstyle%3E g%7Bstroke:%23f1f3f3;stroke-width:1;%7D %3C/style%3E%3Cg%3E%3Cline x1='5' y1='5' x2='5' y2='14' /%3E%3Cline x1='14' y1='9' x2='14' y2='14' /%3E%3Cline x1='5' y1='14' x2='14' y2='14' /%3E%3Cline x1='5' y1='5' x2='9' y2='5' /%3E%3Cline x1='10' y1='2' x2='17' y2='2' /%3E%3Cline x1='17' y1='2' x2='17' y2='9' /%3E%3Cline x1='10' y1='9' x2='17' y2='2' style='stroke-width:1.5' /%3E%3C/g%3E%3C/svg%3E");
+      padding-right: 0.7rem;
+    }
+  }
 }
 
 #menu {
   flex-flow: row nowrap;
 }
 
-.nav::after {
-  background-color: #8a2a2b;
-  content: "";
-  height: 1px;
-  left: 0;
-  position: relative;
-  width: 100%;
-}
-
-.dark .nav::after {
-  background-color: #f2c763;
-  content: "";
-  height: 1px;
-  left: 0;
-  position: relative;
-  width: 100%;
-}
-
-.main pre {
-  font-family: var(--font-mono);
-}
-
 img {
   max-width: 70%;
-}
 
-img[src*="#center"] {
-  margin: 0.2rem auto !important;
-}
-
-figcaption {
-  width: 70%;
-  margin: auto !important;
-  text-align: right;
-  font-family: var(--font-sans);
-}
-
-.post-content figure > figcaption > p {
-  font-size: 12px !important;
+  &[src*="#center"] {
+    margin: 0.2rem auto !important;
+  }
 }
 
 @media screen and (max-width: 768px) {

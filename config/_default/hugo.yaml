@@ -74,7 +74,7 @@ params:
   pygmentsUseClasses: true
 
   assets:
-    disableHLJS: true
+    disableHLJS: false
 
 languages:
   en:
@@ -86,7 +86,7 @@ languages:
     title: "The Discouraged Revolutionary's Hidden Den"
 
     params:
-      dateFormat: "2 January 2006"
+      dateFormat: "2006-01-02"
       description: "The den for evidence-based revolution"
     
     menu:
@@ -109,5 +109,41 @@ languages:
           weight: 30
         - identifier: about-me
           name: About Me
+          url: /about-me/
+          weight: 40
+
+  ko:
+    disabled: true
+    languageCode: ko
+    languageName: 한국어(Korean)
+    languageDirection: ltr
+    weight: 2
+
+    title: "The Discouraged Revolutionary's Hidden Den"
+
+    params:
+      dateFormat: "2006-01-02"
+      description: "The den for evidence-based revolution"
+    
+    menu:
+      main:
+        - identifier: home
+          name: "홈"
+          pageRef: /
+          weight: 1
+        - identifier: blog
+          name: "블로그"
+          pageRef: /blog/
+          weight: 10
+        - identifier: archives
+          name: "아카이브"
+          url: /archives/
+          weight: 20
+        - identifier: search
+          name: "검색"
+          url: /search/
+          weight: 30
+        - identifier: about-me
+          name: "소개"
           url: /about-me/
           weight: 40

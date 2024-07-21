@@ -21,8 +21,10 @@ goldmark:
   renderer:
     unsafe: true
 highlight:
-  noClasses: false
+  noClasses: true
+  codeFences: true
   guessSyntax: true
   lineNos: true
-  lineNumbersInTable: true
+  lineNumbersInTable: false
   tabWidth: 2
+  # style: catpuccin-macchiato

@@ -1,5 +1,6 @@
 ---
 date: 2022-10-20T16:09:00+09:00
+lastmod: 2024-07-19T15:23:00+09:00
 title: "Migrating a Ghost blog to an EKS cluster: Part 1"
 summary: "Part 1 of a log of migrating a ghost blog to an EKS cluster."
 draft: false
