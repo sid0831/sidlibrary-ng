@@ -31,7 +31,7 @@ Again of course, issuing `backup` three times is not how you do the backup unles
 
 Backing up the application is quite simple. You just dump your ghost database with this command first.
 
-```bash
+```bash {linenos=false}
 $ sudo mysqldump ghost > ghost_$(date --iso-8601=date).sql
 ```
 
@@ -39,7 +39,7 @@ Recent mysql/mariadb versions can authenticate with unix user credentials, so `-
 
 Next is backing up your application directory. In my experience, only `content/` subdirectory was needed if you are going to install fresh setup of ghost first (which is the more stable way when migrating to k8s). But for the reference, saving the `config.production.json` file might be a good idea too. Back those up with your favourite tool. I just tarballed it:
 
-```bash
+```bash {linenos=false}
 $ cd /srv/
 $ tar -cJvf ghost.tar.xz ghost
 ```
@@ -60,7 +60,7 @@ Now, you need to write a yaml (If you didn't know how to pronounce it, it rhymes
 
 Customise and save this to something like `clusterconfig.yaml` on an appropriate location, and issue this command to verify the config:
 
-```bash
+```bash {linenos=false}
 $ eksctl create cluster -f clusterconfig.yaml --dry-run
 ```
 
@@ -68,7 +68,7 @@ If it generates another yaml manifest with default values we missed filling in, 
 
 Now, issue the command, sit back, and relax and wait since it takes time.
 
-```bash
+```bash {linenos=false}
 $ eksctl create cluster -f clusterconfig.yaml
 ```
 
@@ -76,7 +76,7 @@ If it generates error message, follow the instructions from it and refer to AWS/
 
 And voila! Your EKS cluster should be now live. eksctl writes kubeconfig for you, so further setting isn't needed – try this to verify if your cluster is ready.
 
-```bash
+```bash {linenos=false}
 $ kubectl cluster-info  # shows API endpoint info about the cluster
 $ kubectl get nodes  # shows worker node status
 $ kubectl -n kube-system get all  # shows kubernetes system stuff
