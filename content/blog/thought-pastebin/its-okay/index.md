@@ -6,8 +6,8 @@ summary: "Although it feels not okay to take a good rest, it is often better in 
 params:
   commentsEnabled: true
 ---
-{{< youtube id=NO4g1hoYWFw title="Lee Hi singing her song 'Breathe' at the 2017 Golden Disk Awards." loading=lazy >}}
-<p style="flex-basis: 100%; font-family: var(--font-sans); font-size: 12px; text-align: right; margin-top: 0.2rem; margin-bottom: 1rem;">Lee Hi singing her song <i>Breathe</i> at the 2017 Golden Disk Awards. The composer of this song was Jonghyun, who passed away a few days ago of this stage.</p>
+{{< youtube id=NO4g1hoYWFw title="Lee Hi singing her song 'Breathe' at the 2017 Golden Disk Awards." loading="lazy" class="youtube" >}}
+<figcaption>Lee Hi singing her song <i>Breathe</i> at the 2017 Golden Disk Awards.<br />The composer of this song was Jonghyun, who passed away a few days ago of this stage.<br />Video clip &copy; 2017 JTBC. I do not own this video.</figcaption>
 
 _**Trigger Warning: This post talks about negative emotions and self-harming behaviour of human briefly.**_  
 _If you have difficulty regulating negative emotions, you can stop reading here._
@@ -24,7 +24,7 @@ Recently, my now all-time-favourite K-Pop group Dreamcatcher made a comeback aft
 
 While I do not know what would her condition be, one thing is clear: we have seen too much damage done in the artist themselves and the whole culture of the country from people needing rest not being able to take it. Hence I am all for her decision -- that is also I have always been saying in the fan letters I sent to Dreamcatcher time to time.
 
-I remember handing a fan letter over to Gahyeon, the youngest member in the group, wishing although my twenties were not something I want it back, and although it will not always be happy and fun, her twenties may be something she can look retrospectively someday in the future and have very little regrets, on her twentieth birthday. It has been more than a half decade of time passed after that, but I genuinely wish it for everyone I care about.
+I remember handing a fan letter over to Gahyun, the youngest member in the group, wishing although my twenties were not something I want it back, and although it will not always be happy and fun, her twenties may be something she can look retrospectively someday in the future and have very little regrets, on her twentieth birthday. It has been more than a half decade of time passed after that, but I genuinely wish it for everyone I care about.
 
 Actually, the world is not that as fastly moving as you think. We often say "everyone struggles at least a little bit", sometimes in a wrong context, but actually that is true in a sense that no one is perfect (although some people do have differnt start points in terms of privilege they have). It's all [special relativity](https://en.wikipedia.org/wiki/Special_relativity), you know (no it's not).
 

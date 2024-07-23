@@ -3,18 +3,19 @@ draft: false
 title: About Me
 params:
   commentsEnabled: false
+  isCJKLanguage: true
 ---
-{{< figure src="seoul.jpg#center" caption="The city of Seoul is my hometown. Photo by [Ethan Brooke](https://unsplash.com/@seoulinspired)/[Unsplash](https://unsplash.com)" >}}
+{{< figure src="/about-me/seoul.jpg#center" caption="The city of Seoul is my hometown. Photo by [Ethan Brooke](https://unsplash.com/@seoulinspired)/[Unsplash](https://unsplash.com)" >}}
 
-## Who is this weirdo?
+## 이 괴짜는 누구인가요?
 
-My name is Sidney Jeong (I do have a native name in Korean but [I don't really like it](https://en.wikipedia.org/wiki/Deadnaming)), a [neurodivergent](https://en.wikipedia.org/wiki/Neurodiversity) [amab](https://en.wikipedia.org/wiki/Sex_assignment) "genderfluid in principle, demiboy in practice" [non-binary](https://en.wikipedia.org/wiki/Non-binary_gender) person based in [Seoul](https://en.wikipedia.org/wiki/Seoul), [Republic of Korea (South)](https://en.wikipedia.org/wiki/South_Korea). My pronouns are they/them but he/him is acceptable for me.
+안녕하세요, 제 이름은 Sidney Jeong입니다(한국 이름이 있지만 [별로 좋아하지 않아요](https://en.wikipedia.org/wiki/Deadnaming)). 저는 [신경다양인](https://en.wikipedia.org/wiki/Neurodiversity) [지정 남성](https://en.wikipedia.org/wiki/Sex_assignment)이자 "원칙적 젠더플루이드, 사실상 데미보이" 인 [논바이너리](https://en.wikipedia.org/wiki/Non-binary_gender) 사람이고, 한국 서울에 살고 있습니다. 영어 맥락에서 저의 인칭대명사는 they/them이지만 he/him으로 부르셔도 괜찮습니다.
 
-I am very much a weird nerd, who tries to be considerate, kind, bright, and fun (and yes, I might freak you out). I do not bite unless you ask to do so and if and only if I'm keen on it, so feel free to reach out to me if you have something to tell me.
+저는 꽤나 이상한 너드이고, 사려깊고, 친절하고, 밝고, 재밌는 사람이기 위해 노력합니다 (이 말은 제가 지금 안 그렇다는 뜻일지도 모릅니다). 요청해 주시고 제가 내키지 않는 한 저는 물지 않으니, 말씀해 주실 것이 있다면 편하게 저에게 다가와 주세요.
 
-I used to study sociology in university and grad school. But I has always been interested in tech. After becoming unable to continue my study owing to financial challenges (and tbf the grad school life was not for me) and a lot of trial and error, I decided to start a career in tech. And I'd say I'm satisfied with it so far.
+저는 학부와 대학원에서 사회학을 전공했습니다. 하지만 기술에 항상 관심이 있었죠. 재정적 문제 때문에 (그리고 대학원 생활이 저랑 안 맞아서) 공부를 더이상 할 수 없게 된 이후, 많은 시행착오와 방황을 거쳐 IT 커리어를 시작하기로 결정했답니다. 그리고 지금까지는 아주 만족하고 있어요.
 
-I am also a great fan of [Dreamcatcher](https://en.wikipedia.org/wiki/Dreamcatcher_(group)), a K-Pop girl group. Maybe we can talk about them when we have chance!
+저는 또한 K-Pop 그룹 [드림캐쳐](https://en.wikipedia.org/wiki/Dreamcatcher_(group))의 찐팬입니다. 기회가 있다면 드캐 얘기를 함께 할 수도 있을 거예요.
 
 ### Education
 

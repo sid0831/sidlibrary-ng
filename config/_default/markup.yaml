@@ -27,4 +27,4 @@ highlight:
   lineNos: true
   lineNumbersInTable: false
   tabWidth: 2
-  # style: catpuccin-macchiato
+  style: witchhazel

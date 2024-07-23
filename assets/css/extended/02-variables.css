@@ -1,0 +1,45 @@
+/* theme variables override */
+:root {
+  --gap: 24px;
+  --content-gap: 20px;
+  --nav-width: 1080px;
+  --main-width: 960px;
+  --header-height: 60px;
+  --footer-height: 60px;
+  --radius: 8px;
+  --theme: #ffffff;
+  --entry: #ffffff;
+  --primary: #101820;
+  --secondary: #232f3e;
+  --tertiary: #d4dada;
+  --content: #101820;
+  --code-block-bg: #232f3e;
+  --code-bg: #f1f3f3;
+  --border: #708090;
+  --accent: #8a2a2b;
+  --font-sans: 'Cabin', 'Noto Sans KR', sans-serif;
+  --font-serif: 'Piazzolla', 'Noto Serif KR', serif;
+  --font-mono: 'Hack', 'Noto Sans Mono', monospace; 
+}
+
+.dark {
+  --theme: #101820;
+  --entry: #232f3e;
+  --primary: #ffffff;
+  --secondary: #f1f3f3;
+  --tertiary: #d4dada;
+  --content: #f1f3f3;
+  --code-block-bg: #232f3e;
+  --code-bg: #232f3e;
+  --border: #708090;
+  --accent: #f2c763;
+
+  .main .not-found {
+    --primary: #66ff66;
+  }
+}
+
+/* language specifics */
+*[lang=ko] {
+  --font-serif: 'Noto Serif KR', serif;
+}

@@ -14,6 +14,8 @@ outputs:
 theme: "PaperMod"
 _merge: shallow
 
+title: "The Discouraged Revolutionary's Hidden Den"
+
 params:
   ShowReadingTime: true
   ShowShareButtons: false
@@ -32,26 +34,15 @@ params:
   tocopen: false
 
   author: Sidney Jeong
+  dateFormat: "2006-01-02"
       
   titleCaseStyle: chicago
 
   defaultTheme: dark
   disableThemeToggle: false
-  
-  homeInfoParams:
-    Title: "&#129504; We must think! But what we must?"
-    Content: Hello there! I'm Sidney Jeong, a neurodivergent queer tech worker who decided to leave academic world of social science years ago for this new journey.
-    
+ 
   profileMode:
     enabled: true
-    title: |
-      We must think! But what we must?
-    subtitle: |
-      Hello there! I'm Sidney Jeong, a neurodivergent queer tech worker who decided to leave the world of academia in social science many years ago for this new journey of career and life.
-
-      <span style="font-size: 12px; font-style: italic;">Please note that the blog is going under an overhaul. I'll try to fill the contents back soon.</span>
-    imageUrl: "logo.png"
-    imageTitle: The logo of this blog. It is an imaginary coat of arms of the Republic of Dreamcatcher.
 
   socialIcons:
     - name: email
@@ -74,7 +65,7 @@ params:
   pygmentsUseClasses: true
 
   assets:
-    disableHLJS: false
+    disableHLJS: true
 
 languages:
   en:
@@ -83,11 +74,17 @@ languages:
     languageDirection: ltr
     weight: 1
 
-    title: "The Discouraged Revolutionary's Hidden Den"
-
     params:
-      dateFormat: "2006-01-02"
       description: "The den for evidence-based revolution"
+      profileMode:
+        title: |
+          We must think! But what we must?
+        subtitle: |
+          Hello there! I'm Sidney Jeong, a neurodivergent queer tech worker who decided to leave the world of academia in social science many years ago for this new journey of career and life.
+
+          <span style="font-size: 12px; font-style: italic;">Please note that the blog is going under an overhaul. I'll try to fill the contents back soon.</span>
+        imageUrl: "logo.png"
+        imageTitle: The logo of this blog. It is an imaginary coat of arms of the Republic of Dreamcatcher.
     
     menu:
       main:
@@ -114,17 +111,25 @@ languages:
 
   ko:
     disabled: true
+
     languageCode: ko
     languageName: 한국어(Korean)
     languageDirection: ltr
     weight: 2
 
-    title: "The Discouraged Revolutionary's Hidden Den"
-
     params:
-      dateFormat: "2006-01-02"
       description: "The den for evidence-based revolution"
-    
+
+      profileMode:
+        title: |
+          우리는 생각해야 한다. 그러나 무엇을?
+        subtitle: |
+          Hello there! I'm Sidney Jeong, a neurodivergent queer tech worker who decided to leave the world of academia in social science many years ago for this new journey of career and life.
+
+          <span style="font-size: 12px; font-style: italic;">Please note that the blog is going under an overhaul. I'll try to fill the contents back soon.</span>
+        imageUrl: "logo.png"
+        imageTitle: The logo of this blog. It is an imaginary coat of arms of the Republic of Dreamcatcher.
+
     menu:
       main:
         - identifier: home

@@ -6,10 +6,10 @@ draft: false
 params:
   commentsEnabled: true
 ---
-{{< youtube id="vLkqskVtrkc" title="The stage footage of Joanne, a Korean-American singer." loading=lazy >}}
-<p style="flex-basis: 100%; font-family: var(--font-sans); font-size: 12px; text-align: right; margin-top: 0.2rem; margin-bottom: 1rem;">Joanne Lee singing her debut song <i>A Shiny Day</i> on the broadcast stage. She got in a terrible car accident and passed away in 2014.</p>
+{{< youtube id="vLkqskVtrkc" title="The stage footage of Joanne, a Korean-American singer." loading="lazy" class="youtube" >}}
+<figcaption>Joanne Lee singing her debut song <i>A Shiny Day</i> on the broadcast stage.<br />She got in a terrible car accident and passed away in 2014.<br />Video clip &copy; 2001 SBS. I do not own this video.</figcaption>
 
-_This post is from my former blog restored according to my memory._
+_Note: This post is from my former blog restored according to my memory._
 
 [Joanne Lee](https://ko.wikipedia.org/wiki/%EC%A3%A0%EC%95%A4_(%EA%B0%80%EC%88%98)) debuted in early 2000s with her song _A Shiny Day_. The Korean-American girl was the same age with me, and had an amazing voice tone and singing skills for her age when she debuted in early teenage. However, she became an one hit wonder because of a legal dispute with her agency, if I remember correctly. After few years when she became an adult, she came back to Korea and studied in Sungkyunkwan University for bachelor's degree in Business Administration.
 
