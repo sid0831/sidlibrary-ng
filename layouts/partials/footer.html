@@ -1,29 +1,16 @@
 {{- if not (.Param "hideFooter") }}
 <footer class="footer">
-    {{- if not site.Params.footer.hideCopyright }}
-        {{- if site.Copyright }}
-        <span>{{ site.Copyright | markdownify }}</span>
-        {{- else }}
-        <span>&copy; 2019-{{ now.Year }} {{ site.Params.author }}. Some rights reserved.</span>
-        {{- end }}
-    {{- end }}
-
-    {{- with site.Params.footer.text }}
-        {{ . | markdownify }}
-    {{- end }}
-
-    <span>
-        Powered by
-        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
-        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>.
-        <br />
-        All contents from myself on this site are freely available under 
-        <a href="" rel="noopener noreferrer" target="_blank">Creative Commons License by-sa 4.0</a> 
-        unless otherwise specified. <br />
-        The opinions and views the contents might present are solely my personal ones, and unrelated to any organisation or group I belong to. <br />
-        이 블로그의 모든 내용과 견해는 저의 개인적인 것이며, 제가 속해 있는 어떤 회사, 기관, 또는 집단과도 무관합니다. <br />
-        이 블로그에 저의 개인정보가 공개된 경우 이는 제가 그 정보의 처리(수집·이용)에 동의함을 의미하지 않습니다.
-    </span>
+  {{- if not site.Params.footer.hideCopyright }}
+    <p class="copyright">
+      &copy; 2019-{{ now.Year }} {{ site.Params.author }}. Some rights reserved. Powered by <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &amp; <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>.
+    </p>
+  {{- end }}
+  {{- with site.Params.footer.text }}
+    <p class="copyright">{{ . | markdownify }}</p>
+  {{- end }}
+  {{- with site.Params.footer.disclaimer }}
+    <p class="copyright">{{ . | markdownify }}</p>
+  {{- end }}
 </footer>
 {{- end }}
 

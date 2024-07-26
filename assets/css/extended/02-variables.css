@@ -5,30 +5,41 @@
   --nav-width: 1080px;
   --main-width: 960px;
   --header-height: 60px;
+  --main-height: 64vh;
   --footer-height: 60px;
   --radius: 8px;
+
   --theme: #ffffff;
   --entry: #ffffff;
   --primary: #101820;
   --secondary: #232f3e;
-  --tertiary: #d4dada;
+  --tertiary: #708090;
   --content: #101820;
   --code-block-bg: #232f3e;
   --code-bg: #f1f3f3;
-  --border: #708090;
+  --border: #d4dada;
   --accent: #8a2a2b;
+
   --font-sans: 'Cabin', 'Noto Sans KR', sans-serif;
   --font-serif: 'Piazzolla', 'Noto Serif KR', serif;
-  --font-mono: 'Hack', 'Noto Sans Mono', monospace; 
+  --font-mono: 'Hack', 'Noto Sans Mono', monospace;
+
+  --font-size-2xlarge: 64px;
+  --font-size-xlarge: 48px;
+  --font-size-large: 24px;
+  --font-size-medium: 18px;
+  --font-size-small: 14px;
+  --font-size-xsmall: 12px;
+  --font-size-2xsmall: 10px;
 }
 
 .dark {
   --theme: #101820;
-  --entry: #232f3e;
+  --entry: #101820;
   --primary: #ffffff;
   --secondary: #f1f3f3;
   --tertiary: #d4dada;
-  --content: #f1f3f3;
+  --content: #ffffff;
   --code-block-bg: #232f3e;
   --code-bg: #232f3e;
   --border: #708090;
@@ -38,6 +49,20 @@
     --primary: #66ff66;
   }
 }
+
+/* on mobile and tablet */
+@media screen and (max-width: 1079px) {
+  :root {
+    --gap: 10px;
+    --content-gap: 8px;
+  }
+}
+
+@media screen and (max-height: 767px) {
+  :root {
+    --main-height: 40vh;
+  }
+} 
 
 /* language specifics */
 *[lang=ko] {
