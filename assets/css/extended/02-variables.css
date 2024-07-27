@@ -1,29 +1,35 @@
 /* theme variables override */
 :root {
+  /* layout measurements */
   --gap: 24px;
-  --content-gap: 20px;
   --nav-width: 1080px;
   --main-width: 960px;
   --header-height: 60px;
   --main-height: 64vh;
-  --footer-height: 60px;
-  --radius: 8px;
+  --footer-height: 120px;
 
+  --content-gap: calc(var(--gap) / 6 * 5);
+  --radius: calc(var(--gap) / 2);
+
+  /* colour */
   --theme: #ffffff;
-  --entry: #ffffff;
   --primary: #101820;
   --secondary: #232f3e;
   --tertiary: #708090;
-  --content: #101820;
   --code-block-bg: #232f3e;
   --code-bg: #f1f3f3;
-  --border: #d4dada;
   --accent: #8a2a2b;
 
+  --content: var(--primary);
+  --entry: var(--code-bg);
+  --border: var(--accent);
+
+  /* fonts */
   --font-sans: 'Cabin', 'Noto Sans KR', sans-serif;
   --font-serif: 'Piazzolla', 'Noto Serif KR', serif;
   --font-mono: 'Hack', 'Noto Sans Mono', monospace;
 
+  /* font sizes */
   --font-size-2xlarge: 64px;
   --font-size-xlarge: 48px;
   --font-size-large: 24px;
@@ -33,17 +39,20 @@
   --font-size-2xsmall: 10px;
 }
 
+/* colours for dark theme */
 .dark {
-  --theme: #101820;
-  --entry: #101820;
+  --theme: #232f3e;
   --primary: #ffffff;
   --secondary: #f1f3f3;
   --tertiary: #d4dada;
-  --content: #ffffff;
-  --code-block-bg: #232f3e;
-  --code-bg: #232f3e;
-  --border: #708090;
+  --code-block-bg: #101820;
+  --code-bg: #101820;
   --accent: #f2c763;
+
+  /* redefining below 3 as the same to override the defaults */
+  --content: var(--primary);
+  --entry: var(--code-bg);
+  --border: var(--tertiary);
 
   .main .not-found {
     --primary: #66ff66;
@@ -53,8 +62,7 @@
 /* on mobile and tablet */
 @media screen and (max-width: 1079px) {
   :root {
-    --gap: 10px;
-    --content-gap: 8px;
+    --gap: 12px;
   }
 }
 
