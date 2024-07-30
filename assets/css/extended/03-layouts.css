@@ -64,12 +64,12 @@ body,
     span {
       font-family: var(--font-serif);
       padding-right: 32%;
+    }
 
-      &.subtitle-small {
-        font-size: var(--font-size-xsmall);
-        font-style: italic;
-        text-align-last: left;
-      }
+    .subtitle-small {
+      font-size: var(--font-size-xsmall);
+      font-style: italic;
+      text-align-last: left;
     }
   }
 

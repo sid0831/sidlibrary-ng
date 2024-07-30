@@ -1,18 +1,23 @@
 baseURL: "https://www.sidlibrary.org/"
 defaultContentLanguage: en
+hasCJKLanguage: true
 
 enableRobotsTXT: true
-paginate: 10
-summaryLength: 60
+summaryLength: 120
+timeZone: Asia/Seoul
 
 outputs:
   home:
     - html
     - rss
     - json
+    - amp
+
+pagination:
+  pagerSize: 8
 
 theme: "PaperMod"
-_merge: shallow
+_merge: none
 
 title: "The Discouraged Revolutionary's Hidden Den"
 
@@ -36,6 +41,7 @@ params:
   author: Sidney Jeong
   dateFormat: "2006-01-02"
       
+  capitalizeListTitles: true
   titleCaseStyle: chicago
 
   defaultTheme: dark
@@ -90,7 +96,8 @@ languages:
         subtitle: |
           Hello there! I'm Sidney Jeong, a neurodivergent queer tech worker who decided to leave the world of academia in social science many years ago for this new journey of career and life.
 
-          <span class="subtitle-small">Please note that the blog is going under an overhaul. I'll try to fill the contents back soon.</span>
+          Please note that the blog is going under an overhaul. I'll try to fill the contents back soon.
+          {.subtitle-small}
         imageUrl: "logo.png"
         imageTitle: The logo of this blog. It is an imaginary coat of arms of the Republic of Dreamcatcher.
     
@@ -134,7 +141,8 @@ languages:
         subtitle: |
           Hello there! I'm Sidney Jeong, a neurodivergent queer tech worker who decided to leave the world of academia in social science many years ago for this new journey of career and life.
 
-          <span style="font-size: 12px; font-style: italic;">Please note that the blog is going under an overhaul. I'll try to fill the contents back soon.</span>
+          Please note that the blog is going under an overhaul. I'll try to fill the contents back soon.
+          {.subtitle-small}
         imageUrl: "logo.png"
         imageTitle: The logo of this blog. It is an imaginary coat of arms of the Republic of Dreamcatcher.
 
