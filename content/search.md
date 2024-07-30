@@ -1,8 +1,8 @@
 ---
 title: "Search"
-placeholder: "Search the contents of my blog"
+placeholder: "Search the contents from this blog"
 layout: "search"
-summary: "Search the contents of my blog"
+summary: "Search the contents from my blog"
 params:
   commentsEnabled: false
 ---
