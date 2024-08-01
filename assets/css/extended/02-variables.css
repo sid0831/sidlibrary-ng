@@ -12,12 +12,12 @@
   --radius: calc(var(--gap) / 2);
 
   /* colour */
-  --theme: #ffffff;
+  --theme: #fafafa;
   --primary: #101820;
-  --secondary: #232f3e;
-  --tertiary: #708090;
-  --code-block-bg: #232f3e;
-  --code-bg: #f1f3f3;
+  --secondary: #242424;
+  --tertiary: #494949;
+  --code-block-bg: #242424;
+  --code-bg: #adadad;
   --accent: #8a2a2b;
 
   --content: var(--primary);
@@ -41,10 +41,10 @@
 
 /* colours for dark theme */
 .dark {
-  --theme: #232f3e;
-  --primary: #ffffff;
-  --secondary: #f1f3f3;
-  --tertiary: #d4dada;
+  --theme: #242424;
+  --primary: #fafafa;
+  --secondary: #adadad;
+  --tertiary: #dbdbdb;
   --code-block-bg: #101820;
   --code-bg: #101820;
   --accent: #f2c763;
