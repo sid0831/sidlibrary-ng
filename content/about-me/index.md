@@ -14,7 +14,7 @@ I am very much a weird nerd, who tries to be considerate, kind, bright, and fun 
 
 I used to study sociology in university and grad school. But I has always been interested in tech. After becoming unable to continue my study owing to financial challenges (and tbf the grad school life was not for me) and a lot of trial and error, I decided to start a career in tech. And I'd say I'm satisfied with it so far.
 
-I am also a great fan of [Dreamcatcher](https://en.wikipedia.org/wiki/Dreamcatcher_(group)), a K-Pop girl group. Maybe we can talk about them when we have chance!
+I am also a great fan of [Dreamcatcher](https://en.wikipedia.org/wiki/Dreamcatcher_(group)) and [NMIXX](https://en.wikipedia.org/wiki/Nmixx), the K-Pop girl groups. Maybe we can talk about them when we have chance!
 
 ### Education
 
@@ -111,6 +111,7 @@ spec:
     - category: music
       values:
         - dreamcatcher
+        - nmixx
         - k-pop
         - pop-rock
         - classical
