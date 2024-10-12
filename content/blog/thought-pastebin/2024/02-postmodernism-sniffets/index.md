@@ -1,5 +1,5 @@
 ---
-date: 2024-10-13T13:00:00+09:00
+date: 2024-10-13T12:34:00+09:00
 title: "Brief thoughts on postmodernism and related thoughts"
 draft: false
 summary: "Postmodernism is like a blowfish dish"
