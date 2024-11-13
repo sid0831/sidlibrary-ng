@@ -36,6 +36,7 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
+  social: true
 
   author: Sidney Jeong
   dateFormat: "2006-01-02"
