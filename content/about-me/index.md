@@ -16,6 +16,12 @@ I used to study sociology in university and grad school. But I has always been i
 
 I am also a great fan of [Dreamcatcher](https://en.wikipedia.org/wiki/Dreamcatcher_(group)) and [NMIXX](https://en.wikipedia.org/wiki/Nmixx), the K-Pop girl groups. Maybe we can talk about them when we have chance!
 
+### Professional summary
+
+* A system operations engineer with focus on IT infrastructure (both cloud-native and on-prem), especially but not limited to Linux-based servers and serverless environments
+* With 5+ years of IT infrastructure, cloud, and technical support and consulting experience, including Google (via a contractor agency), Luxoft, and Amazon Web Services
+* A natural fast learner and problem solver with international communication skills
+
 ### Education
 
 * [**Sungkyunkwan University**](https://www.skku.edu/eng/), Seoul, South Korea
@@ -27,19 +33,19 @@ I am also a great fan of [Dreamcatcher](https://en.wikipedia.org/wiki/Dreamcatch
 
 ### Experience (after I started in tech)
 
-* [**EB Tech Net**](http://ebtechnet.co.kr/), Seoul, South Korea
-  * Oct 2019 - May 2020, Systems Engineer
-  * Did a technical support / pre-sales concerning early contact of reselling an HPC cloud service based in the US while also doing the technical support for customers needing it for installing and maintaining the servers. Customers included: Samsung SDS, LG U+, Hyundai Maritime Insurance, Korea Environment Corporation.
-* [**PersolKelly Korea (now Persol Korea)**](https://www.persolkr.com/), Seoul, South Korea
-  * Jul 2020 - Dec 2021, Data Centre Operations Technician
-  * As a Temp Operations Technician on-site at Google, I did builds, deployments, repairs, and ticket-based problem solving independent to full-time employees, in overlapping but smaller scope.
+* [**Amazon Web Services**](https://aws.amazon.com/), Seoul, South Korea
+  * Oct 2023 - Jul 2025, Cloud Support Associate (Linux)
+  * As an L4 Cloud Support Associate (Linux Profile) in the Language Support Engineering team (Korean), I supported AWS customers, including individual developers, SMBs, and major corporations, on AWS services such as Amazon EC2, Amazon Linux, AWS VM Import/Export, AWS MGN, or AWS DRS with broad ranges of use cases and issues.
+  * _This blog is by no means affilliated with Amazon, Inc., Amazon Web Services, Inc., or their affilliates._
 * [**DXC Luxoft**](https://www.luxoft.com/), Seoul, South Korea
   * Feb 2022 - April 2023, Technical Consultant (Configuration and Environmental Management)
-  * As a regular configuration and environment management consultant, I performed setting up, managing configurations, and troubleshooting issues regarding development, staging, and rehearsal environments for Murex and related third-party software.
-* [**Amazon Web Services**](https://aws.amazon.com/), Seoul, South Korea
-  * Oct 2023 - Present, Cloud Support Associate (Linux)
-  * As a Linux profile Cloud Support Associate in Language Support - Korean team, I'm resolving customer cases of EC2 - Linux, EBS, and other related services in Korean and English languages.
-  * _This blog is by no means affilliated with Amazon, Inc., Amazon Web Services, Inc., or their affilliates._
+  * As a Murex configuration and environment management (CEM) consultant, I performed infrastructure setup and tuning, configuration and manual CI/CD management, and troubleshooting for Murex MX.3 and related third-party software setups.
+* [**PersolKelly Korea (now Persol Korea)**](https://www.persolkr.com/), Seoul, South Korea
+  * Jul 2020 - Dec 2021, Data Centre Operations Technician
+  * As a member of the extended workforce (contractor) on-site at Google in the Data Centre Technician role, I participated in and supported infrastructure maintenance and turn-up projects throughout various locations in South Korea.
+* [**EB Tech Net**](http://ebtechnet.co.kr/), Seoul, South Korea
+  * Oct 2019 - May 2020, Systems Engineer
+  * As a Junior System Engineer, I provided technical support and onboarding for the early-stage reseller program of Penguin Computing platform, an HPC cloud service based in the US, while also supporting server hardware customers on new server setups and routine checkups. Customers included: Samsung SDS, LG U+, Hyundai Maritime Insurance, and Korea Environment Corporation.
 
 ## My configuration manifest (if you are my fellow nerd)
 
