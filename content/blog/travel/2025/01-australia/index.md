@@ -1,5 +1,5 @@
 ---
-date: 2025-04-16T16:04:00+09:00
+date: 2025-08-09T16:04:00+09:00
 title: "My Trip to Australia: Part 1"
 draft: true
 summary: "I went to the land down under. And I discovered another possibility of life."
