@@ -1,7 +1,7 @@
 ---
 date: 2025-08-01T21:02:25+09:00
 title: "Why I Don't Belong Here: Navigating My Own Life"
-summary: "Being born and raised in South Korea, I've never felt like I belong in this society."
+summary: "Being born and raised in South Korea, I've never felt like I belong to this society."
 draft: false
 params:
   commentsEnabled: true
@@ -10,7 +10,7 @@ params:
 
 There are a lot of internal and external critiques of every single culture the humanity has. And a lot of them offer valid points to think, while some of them are based on pure hate or misunderstanding. Some people say "being a critic is easy, changing what they don't like is hard." But for me, it sounds like they're saying natural science is less valuable than engineering, while undermining the power difference and the reachability of one's voice. Yes, someone in a big despair might grunt in raw, enraged voice. But no, that doesn't mean their voice is invalid. Rather, it means that the voice is silenced by colonial oppression and the person didn't even have a chance to obtain or invent words to express what they feel.
 
-Being born and raised in South Korea, I've never felt like I belong in this society. The feeling was raw and rough in my early life, but I feel like it's starting to get refined a bit, as time of endurance passes by. Of course, there are a lot of things I cannot even tell anybody, for the sake of my trauma, dignity of me and other people, and various other reasons. However, I can definitely say this society has never been welcoming or accommodating to me, who is actually from it. I am pretty sure that I'm a very quirky person, and this society, in the level even worse than any other contemporary societies, punishes people for being just different.
+Being born and raised in South Korea, I've never felt like I belong to this society. The feeling was raw and rough in my early life, but I feel like it's starting to get refined a bit, as time of endurance passes by. Of course, there are a lot of things I cannot even tell anybody, for the sake of my trauma, dignity of me and other people, and various other reasons. However, I can definitely say this society has never been welcoming or accommodating to me, who is actually from it. I am pretty sure that I'm a very quirky person, and this society, in the level even worse than any other contemporary societies, punishes people for being just different.
 
 They don't just passively exclude different people here; they actively hates and ostracises different people. If there is one thing that the humanity has learnt over time, that is every human being, or even every conscious experience, are sacred and never a subject of someone else's "understanding" or "approval". They just are here, existing in the world with you. Unless someone tries to threaten or actively infringe your dignity and existence, you should just accept it and move on. That is what every single piece of human knowledge tells you, after countless of lives were sacrificed.
 
