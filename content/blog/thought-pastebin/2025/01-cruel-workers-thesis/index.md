@@ -1,8 +1,8 @@
 ---
 date: 2025-03-31T19:17:05+09:00
 title: "The Cruel Worker's Thesis: A Parody"
-summary: "A revival of 10 years old parody of mine."
-draft: true
+summary: "A revival of a decade and a half old parody of mine."
+draft: false
 params:
   commentsEnabled: true
 ---
