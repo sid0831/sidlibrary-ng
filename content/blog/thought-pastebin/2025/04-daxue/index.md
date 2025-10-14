@@ -8,7 +8,7 @@ params:
 ---
 {{< figure src="daxue_caligraphy.jpg#center" caption="*The Great Learning (大學)* at a Confucian Temple at Tainan, Taiwan. Picture by Matt314 at Wikimedia Commons. &copy;2006, CC BY-SA 2.5." >}}
 
-Confucianism in pre-modern (or maybe even modern) East Asia has been the language of oppressive structure that kept conformity, obedience, and serfdom of the mass. *The Great Learning (大學)*, one of the most important texts of Neo-Confucianism that arose in Song Empire after the ancient text was emphasised by Zhu Xi, is often interpreted as a top-down imperative for that structure too. And this stub is a shower thought intepretation from me that can reclaim the meaning of it.
+Confucianism in pre-modern (or maybe even modern) East Asia has been the language of oppressive structure that kept conformity, obedience, and serfdom of the mass. *The Great Learning (大學)*, one of the most important texts of Neo-Confucianism that arose in Song Empire after the ancient text was emphasised by Zhu Xi, is often interpreted as a top-down imperative for that structure too. And this stub is a shower thought interpretation from me that can reclaim the meaning of it.
 
 As an East Asian myself, even before I learnt about the text, the phrases like "大學之道, 在明明德, 在親民, 在止於至善" ('新民' is a later fabrication of Zhu Xi for his ideological alignment), or "修身, 齊家, 治國, 平天下" were very familiar to me, and I think it's the same for any other East Asians. And both phrases are often interpreted as something like a procedural definition in maintaining the top-down system on moral imperative.
 
