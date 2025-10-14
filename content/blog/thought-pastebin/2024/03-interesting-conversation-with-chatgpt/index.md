@@ -1,7 +1,7 @@
 ---
 date: 2024-11-12T10:34:00+09:00
 title: "Interesting Conversation with ChatGPT"
-draft: false
+draft: true
 summary: "Conversation with ChatGPT about the nature of the universe and human intelligence"
 params:
   commentsEnabled: true
