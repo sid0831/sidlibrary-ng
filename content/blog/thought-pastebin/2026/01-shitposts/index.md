@@ -8,7 +8,7 @@ params:
 ---
 {{< figure src="matt-zhang-mKpDfV5qn2U-unsplash.jpg#center" caption="The iconic Finders Street Station in Melbourne, Victoria, Australia at night. &copy;2018 Matt Zhang, Unsplash license." >}}
 
-These are my recent fedivers posts, combined and edited a bit, which I've been using for a quick thought pastebin. I thought it might be a good idea to back it up on an independent platform, since no one knows what would happen to the specific mastodon instance in the future.
+These are my recent fediverse posts, combined and edited a bit, which I've been using for a quick thought pastebin. I thought it might be a good idea to back it up on an independent platform, since no one knows what would happen to the specific mastodon instance in the future.
 
 ## On Fascism
 
