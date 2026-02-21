@@ -16,7 +16,7 @@ Furthermore, that limitation is the very reason I say the autonomy is a value hu
 
 This post is a bit autoethnographic collage of thoughts, developed from this principle. My friend [Jae Young Han](https://scholar.google.com/citations?user=4Npdte8AAAAJ), a PhD candidate at Monash University in Melbourne, Australia, helped me enriching this thought and gave me an idea of writing this post.
 
-### Human Conscious Experience as Prediction Machines
+## Human Conscious Experience as Prediction Machines
 
 Modern brain science says our brains, especially the conscious experience emerging from it, are prediction machines. It also makes sense in evolutionary perspective: Having a somewhat-inefficient nervous chunk must have been useful for survival by allowing predictions of the future, making us prepared for events that might happen.
 
@@ -28,7 +28,7 @@ In other words, ND brains tend to run the full Monte Carlo simulation all the ti
 
 I think this is the reason why I always have been getting told that I shouldn't overthink everything. But in reality, it is just how my brain works -- It also shows why ND people say they can find hidden problems and new insights, but they are on constant overload all the time, while NT people prefer easier judgement and normalcy a lot more.
 
-### What Does This Mean for the Autonomy as the Fundamental Principle?
+## What Does This Mean for the Autonomy as the Fundamental Principle?
 
 In operational terms, the autonomy isn't just a freedom from dominance. Although the concept of free will can still be debated, we feel that we actively choose from a multiple-choice list all the time empirically. However, without the human conscious experience's fundamental property of future prediction, it would not actually be a choice; if the brain cannot predict the outcomes, it boils down to merely a reaction from external stimuli.
 

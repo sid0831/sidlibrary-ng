@@ -14,13 +14,13 @@ As an East Asian myself, even before I learnt about the text, the phrases like "
 
 However, in my opinion, if we interpret it literally with contemporary scientific lens, the meaning gets reclaimed in revolutionary way.
 
-### Is it really about elitist enlightenment?
+## Is it really about elitist enlightenment?
 
 The first sentence of the text, "大學之道, 在明明德, 在親民, 在止於至善", is often translated as "What the Great Learning teaches, is to illustrate illustrious virtue; to make the people intimate with it; and to rest in the highest excellence." And it's been thought as an elitist enlightenment of the virtue, especially with Zhu Xi's fabrication of '親民' (to make the people intimate with it) to '新民' (to renovate the people).
 
 But if we stick to the literal meaning of it along with modern scientific lens, it becomes evident that "明明德" means *pattern recognition* from the base facts and events, "親民" means *propagation* of the findings to more people, and "止於至善" means *updating the path to point the final destination*. To put it in another way, it's talking about the Bayesian process of collecting more and more evidences that can revise the estimation, collaborating with other pattern-seekers to synergetically update the estimation even further, and adding the estimations to find the final path like how Feynman's path integral interprets the principle of least action.
 
-### It's about bottom-up reasoning procedure for greater good
+## It's about bottom-up reasoning procedure for greater good
 
 The next part that says
 
