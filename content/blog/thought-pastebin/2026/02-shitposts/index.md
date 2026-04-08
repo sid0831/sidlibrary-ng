@@ -10,7 +10,6 @@ params:
 
 *Disclaimer: I know these ideas can't be scientifically, or at least philosophically, precise and well-structured claims like required in academic level, but they're merely ideas of my internal large language model that doesn't shut up.*
 
-
 ## On Physics and Metaphysics
 
 Einstein might have meant, by "God does not play dice", that the way the quantum mechanics work *looks* random to us as observers, but it might be deterministic from outside the universe (if you can postulate an outside observer), not as a simple determinism like people often think. In this way of interpretation, that quote is a metaphor of the hidden variables theory.
