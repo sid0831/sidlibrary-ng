@@ -8,6 +8,8 @@ params:
 ---
 {{< figure src="20260327_103310.jpg#center" caption="The notorious Sydney Harbour Bridge seen from Milsons Point, the opposite side of the harbour from Circular Quay. &copy;2026 Sidney Jeong, CC BY-SA 4.0." >}}
 
+*Edit 10 April 2026: Added thoughts on the rise of East Asian economy.*
+
 *Disclaimer: I know these ideas can't be scientifically, or at least philosophically, precise and well-structured claims like required in academic level, but they're merely ideas of my internal large language model that doesn't shut up.*
 
 ## On Physics and Metaphysics
@@ -41,6 +43,20 @@ But something like wheelchair or cochlear implant did not reach the glasses-leve
 This means both P-NP divide and the concept of disability might rely on an arbitrary and relative complexity of building a model, a tool, or an algorithm that explains the observable phenomenon, aka comfort. The disability discrimination heavliy relies on the sense of comfort in the discriminatory person's mind, and it is actually because the model that explains both their existence and the disabled people's existence is too complex for them that prevents them from constructing it in polynomial time without *just right* algorithm.
 
 Furthermore, the research and casual experiments with AAC, such as button boards, with dogs or cats show that the communicational boundaries among species might be the same. That suggests inter-species communication can be achieved with the same approach as we try to communicate with non-verbal autistic individual (and by that I do not mean ABA). And those tools are sort of disability assistive devices, if we can strip the judgemental meaning from the term.
+
+## The East Asia's Rise: Was Culture Destiny?
+
+The famous interview with Lee Kwan Yew by Fareed Zakaria in *Foreign Policy*, "Culture is Destiny", might have been just a post-hoc justification of authoritarianism after a success happened. And the response from Kim Dae-jung, "Is Culture Destiny?" ends with the goosebump-bringing words, "culture is not necessarily our destiny -- Democracy is."
+
+Many people, especially from the west, maintain an Orientalistic view of mythologising Japan's success in 1970s and South Korea's following success in the early 21st century as something culturally unique and mystic. The neoliberal business advocates appropriated the completely mundane and universal concepts like kaizen (making something better) like it has a mystic oriental hidden meaning, while it was just a Japanese word for a common concept. This led to the western businesses implement atrocious Japanese authoritarian management practices deeply and quickly, which partially made 21st century American big tech culture of inhumane exploitation.
+
+But my hypothesis is that the rise of Japan, along with the asset bubble, was actually very proactively exploiting the workforce with the fascist work culture which got systemically burnt out with the recession, and South Korea surpassing Japan in some industries were just them filling the gap because Korea still had human resources to exploit when they started to 'rise'. Now China is following the course while Japan and South Korea are looking them down, and the look-down makes the countries less prepared to the new competitor while China slowly accumulates brand reputation in the back. The early 21st century rise of Samsung and LG that largely replaced Sony or Panasonic in global market is happening with them and Xiaomi, in a slower pace.
+
+So to say, the rise of CJK economy in turn might just be a big human resources ponzi scheme. Japan already got burnt out, Korea is rapidly burning out, and the scariest fact is that China has much more human resources to exploit upon until they all deplete. It's like a ponzi scheme from much bigger capital takes more time to get revealed of groundless nature. And Korea did it with the smallest human capital, which practically poses a risk of the glory of South Korea right now being just an one hit wonder in historical timeframe.
+
+Taiwan and Singapore is largely similar, but they have an interesting fallback strategy. Taiwan relies largely on international politics from the inter-strait tension, which is the same position South Korea had in Park dictatorship era. Singapore relies on international trade and finance, and absorbing Hong Kong's financial status as the city is getting absorbed into China. Hence, as their method does not rely on solely human resources ponzi scheme like CJK, they might have a better chance of survival unless there's a shift of international trade and political paradigm, which is unfortunately happening with Trump.
+
+Vietnam might be another interesting case because it's the most cautiously seen and hated country from Chinese people, like Japan does to Korea and Korea does to China, but the strategy might be a bit different. They do rely on cheap labour and semi-planned economy, but the long-grain rice cultivation culture, compared to much more labour-intensive short-grain rice cultivation, makes it a slight bit more laid back than CJK. But we have insufficient data on how it would go.
 
 ## Real Shitpost
 
