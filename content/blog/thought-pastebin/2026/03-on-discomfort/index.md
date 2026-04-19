@@ -6,7 +6,7 @@ draft: false
 params:
   commentsEnabled: true
 ---
-{{< figure src="20260329_100540.jpg#center" caption="The three sisters of blue mountain, Katoomba, NSW. &copy;2026 Sidney Jeong, CC BY-SA 4.0." >}}
+{{< figure src="20260329_100540.jpg#center" caption="The three sisters of blue mountains, Katoomba, NSW. &copy;2026 Sidney Jeong, CC BY-SA 4.0." >}}
 
 The origin of discomfort might be largely a disincentive mechanism of human cognition, which I think a biochemical Bayesian prediction model, about observing an error that does not fit the model, because it means the model failed in prediction and thus it indicates lower chance of survival. In this sense, 'it would be' and 'it should be' are both predictions of different kinds.
 
