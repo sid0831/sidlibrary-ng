@@ -10,9 +10,9 @@ params:
 
 The origin of discomfort might be largely a disincentive mechanism of human cognition, which I think a biochemical Bayesian prediction model, about observing an error that does not fit the model, because it means the model failed in prediction and thus it indicates lower chance of survival. In this sense, 'it would be' and 'it should be' are both predictions of different kinds.
 
-There are two ways to deal with discomfort.
+In my observation, if the discomfort is the error response, there are two ways to deal with discomfort.
   1. Refining the model to include the unexplained data, either by:  
-    a. modifying the model itself, or;  
+    a. Modifying the model itself, or;  
     b. Adding an ad-hoc explanation of why this data is an exception.
   2. Ignoring the data and pretending their model describes the reality in 100% accuracy.
 
