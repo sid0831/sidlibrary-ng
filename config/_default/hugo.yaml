@@ -83,9 +83,8 @@ params:
 
 languages:
   en:
-    languageCode: en
-    languageName: English
-    languageDirection: ltr
+    locale: en
+    label: English
     weight: 1
 
     params:
@@ -127,9 +126,8 @@ languages:
   ko:
     disabled: true
 
-    languageCode: ko
-    languageName: 한국어(Korean)
-    languageDirection: ltr
+    locale: ko
+    label: 한국어(Korean)
     weight: 2
 
     params:
