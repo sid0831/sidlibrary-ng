@@ -1,5 +1,5 @@
 ---
-date: 2026-05-03T14:40:00+09:00
+date: 2026-05-03T12:40:00+09:00
 title: "On Validity and Legitimacy"
 summary: "The two concepts are two different things."
 draft: false
