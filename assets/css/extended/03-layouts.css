@@ -266,7 +266,8 @@ body,
 }
 
 /* dark mode specifics */
-.dark {
+.dark,
+:root[data-theme="dark"] {
   .main .not-found {
     a[href]:not(:where(
       [href^="#"],

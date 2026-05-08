@@ -40,7 +40,8 @@
 }
 
 /* colours for dark theme */
-.dark {
+.dark,
+:root[data-theme="dark"] {
   --theme: #242424;
   --primary: #fafafa;
   --secondary: #adadad;
@@ -73,6 +74,6 @@
 } 
 
 /* language specifics */
-*[lang=ko] {
+*[lang="ko"] {
   --font-serif: 'Noto Serif KR', serif;
 }

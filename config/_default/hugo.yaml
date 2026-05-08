@@ -45,7 +45,7 @@ params:
   titleCaseStyle: chicago
 
   defaultTheme: dark
-  disableThemeToggle: false
+  disableThemeToggle: true
  
   profileMode:
     enabled: true
