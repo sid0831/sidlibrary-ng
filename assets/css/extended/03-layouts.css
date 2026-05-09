@@ -171,6 +171,7 @@ body,
 .header,
 .footer,
 .nav,
+.header-nav,
 .paginav {
   font-family: var(--font-sans);
   letter-spacing: -0.02rem;
@@ -224,7 +225,8 @@ body,
   }
 }
 
-.nav {
+.nav,
+.header-nav {
   &,
   .logo {
     justify-content: space-between;
@@ -304,7 +306,8 @@ body,
 
 /* on mobile */
 @media screen and (max-width: 821px) {
-  .nav .logo {
+  .nav .logo,
+  .header-nav .logo {
     flex-basis: 100%;
 
     a {
