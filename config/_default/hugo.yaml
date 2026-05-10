@@ -16,7 +16,7 @@ pagination:
   pagerSize: 8
 
 theme: "PaperMod"
-_merge: none
+_merge: shallow
 
 title: "The Discouraged Revolutionary's Hidden Den"
 
