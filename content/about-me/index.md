@@ -162,7 +162,7 @@ spec:
         - racist            # especially white supremacists
         - altright          # absolutely no exception
         - autism-speaks     # there is no room for ableism in disguise here
-        - ableist-by-choice # in any cateogry of disability.
+        - ableist-by-choice # in any category of disability.
         - chauvinist        # in any identity
         - religious-zealot  # in any religion
       hardLimit: true
