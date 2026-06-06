@@ -54,7 +54,6 @@ I am also a great fan of [Dreamcatcher](https://en.wikipedia.org/wiki/Dreamcatch
   * Deployed and maintained Fujitsu, HPE, and Dell servers for mission-critical infrastructures of big Korean corporations like Samsung SDS, LG U+, Hyundai Maritime Insurance, and Korea Environment Corporation, as an engineer for a server reseller
   * Technical and onboarding support for enquiries of reseller program of Penguin Computing Platform, an HPC cloud service
 
-
 ## My configuration manifest (if you are my fellow nerd)
 
 ```yaml {linenos=false}
