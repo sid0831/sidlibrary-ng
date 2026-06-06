@@ -12,40 +12,48 @@ My name is Sidney Jeong (I do have a native name in Korean but [I don't really l
 
 I am very much a weird nerd, who tries to be considerate, kind, bright, and fun (and yes, I might freak you out). I do not bite unless you ask to do so and if and only if I'm keen on it, so feel free to reach out to me if you have something to tell me.
 
-I used to study sociology in university and grad school. But I has always been interested in tech. After becoming unable to continue my study owing to financial challenges (and tbf the grad school life was not for me) and a lot of trial and error, I decided to start a career in tech. And I'd say I'm satisfied with it so far.
+I used to study sociology in university and grad school. But I have always been interested in tech. After becoming unable to continue my study owing to financial challenges (and tbf the grad school life was not for me) and a lot of trial and error, I decided to start a career in tech. And I'd say I'm satisfied with it so far.
 
 I am also a great fan of [Dreamcatcher](https://en.wikipedia.org/wiki/Dreamcatcher_(group)) and [NMIXX](https://en.wikipedia.org/wiki/Nmixx), the K-Pop girl groups. Maybe we can talk about them when we have chance!
 
 ### Professional summary
 
-* A system operations engineer with focus on IT infrastructure (both cloud-native and on-prem), especially but not limited to Linux-based servers and serverless environments
-* With 5+ years of IT infrastructure, cloud, and technical support and consulting experience, including Google (via a contractor agency), Luxoft, and Amazon Web Services
-* A natural fast learner and problem solver with international communication skills
+* **A cloud/system operations engineer** with focus on IT infrastructure (both cloud-native and on-prem), especially on but not limited to Linux-based servers and serverless environments
+* **AWS (full-time) & Google (via a contractor agency) experienced engineer** with 5+ years of IT infrastructure, cloud, technical support, and consulting experience, skilled in Linux administration on cloud environment, hybrid cloud migration (AWS MGN&DRS), on-prem infrastructure, and financial trading environments (Murex MX.3)
+* **A natural fast learner and problem solver** with international communication skills and systemic perspective for assessing structural risks preventively and in post-mortem
+* **Open to** full-time positions in Australia, with 482 Skills in Demand visa or relevant visa sponsorship options. Relocation support is not needed.
 
 ### Education
 
 * [**Sungkyunkwan University**](https://www.skku.edu/eng/), Seoul, South Korea
-  * 2007-2012, Bachelor of Arts in Sociology and Oriental Studies
+  * 2007-2012, Bachelor of Arts in Sociology/Confucian and Oriental Studies
 * [**Seoul National University**](https://en.snu.ac.kr/), Seoul, South Korea
   * 2012-2018, Master of Arts in Sociology (_Incomplete -- owing to financial challenges_)
 * [**Busan IT Training Centre**](https://www.busanit.ac.kr/), Busan, South Korea
-  * Completed an IT Job training course
+  * 2019, Completed an IT Vocational training course on Systems and Network Administration
 
 ### Experience (after I started in tech)
 
 * [**Amazon Web Services**](https://aws.amazon.com/), Seoul, South Korea
-  * Oct 2023 - Jul 2025, Cloud Support Associate (Linux)
-  * As an L4 Cloud Support Associate (Linux Profile) in the Language Support Engineering team (Korean), I supported AWS customers, including individual developers, SMBs, and major corporations, on AWS services such as Amazon EC2, Amazon Linux, AWS VM Import/Export, AWS MGN, or AWS DRS with broad ranges of use cases and issues.
-  * _This blog is by no means affilliated with Amazon, Inc., Amazon Web Services, Inc., or their affilliates._
+  * Oct 2023 - Jul 2025, Cloud Support Associate (Linux, L4)
+  * Diagnosed systemic and structural issues for diverse range of AWS customers (Individual developers, SMBs, and major corporations)
+  * Engineered technical solutions for complex use cases on AWS services such as Amazon EC2, Amazon Linux, AWS VM Import/Export, AWS MGN, or AWS DRS.
+  * Managed high-severity incidents as part of the Language Support Engineering team, handling broad ranges of infrastructure failures.
 * [**DXC Luxoft**](https://www.luxoft.com/), Seoul, South Korea
-  * Feb 2022 - April 2023, Technical Consultant (Configuration and Environmental Management)
-  * As a Murex configuration and environment management (CEM) consultant, I performed infrastructure setup and tuning, configuration and manual CI/CD management, and troubleshooting for Murex MX.3 and related third-party software setups.
+  * Feb 2022 - April 2023, Consultant (Murex CEM Engineer)
+  * Engineered new infrastructures for development/staging/production-to-be environments for new implementation or upgrade projects of Murex MX.3 trading software
+  * Managed configuration consistency and maintained manual CI/CD management with complex cases automatic deployments can’t cover
+  * Diagnosed issues and provided technical solutions for Murex MX.3 environment, both on server and client sides.
 * [**PersolKelly Korea (now Persol Korea)**](https://www.persolkr.com/), Seoul, South Korea
   * Jul 2020 - Dec 2021, Data Centre Operations Technician
-  * As a member of the extended workforce (contractor) on-site at Google in the Data Centre Technician role, I participated in and supported infrastructure maintenance and turn-up projects throughout various locations in South Korea.
+  * Google extended workforce for infrastructure maintenance and deployment
+  * Troubleshooted and maintained early to take-off stage colo data centre for Google Cloud Platform
+  * Diagnosed and Intervened on hardware problems of proprietary servers, network infrastructure with high-availability
 * [**EB Tech Net**](http://ebtechnet.co.kr/), Seoul, South Korea
   * Oct 2019 - May 2020, Systems Engineer
-  * As a Junior System Engineer, I provided technical support and onboarding for the early-stage reseller program of Penguin Computing platform, an HPC cloud service based in the US, while also supporting server hardware customers on new server setups and routine checkups. Customers included: Samsung SDS, LG U+, Hyundai Maritime Insurance, and Korea Environment Corporation.
+  * Deployed and maintained Fujitsu, HPE, and Dell servers for mission-critical infrastructures of big Korean corporations like Samsung SDS, LG U+, Hyundai Maritime Insurance, and Korea Environment Corporation, as an engineer for a server reseller
+  * Technical and onboarding support for enquiries of reseller program of Penguin Computing Platform, an HPC cloud service
+
 
 ## My configuration manifest (if you are my fellow nerd)
 
@@ -55,7 +63,7 @@ kind: Person                # or at least I believe so
 metadata:
   annotations:
     sidlibrary.org/generation: millenial
-    sidlibrary.org/status: unstable
+    sidlibrary.org/status: struggling
   labels:
     sidlibrary.org/headlines:
       - The Discouraged Revolutionary
@@ -89,8 +97,11 @@ spec:
       variant: [ "kr", "standard" ]
       native: true
     - code: en
-      variant: [ "nz|au|ca", "esl" ]
+      variant: [ "au", "esl" ]
       level: C2
+      certification:
+        - name: "IELTS General Training"
+          score: 8.0
     - code: ja
       variant: [ "jp", "slight-influence-of-kansai" ]
       level: B1
@@ -99,7 +110,7 @@ spec:
       level: A1
   philosophy:
     - category: metaphysics
-      value: simulation-hypothesis
+      value: does-not-matter-if-this-world-is-real-enough
     - category: philosophy-of-mind
       value: supervenience-physicalism
     - category: philosophy-of-science
@@ -107,8 +118,7 @@ spec:
     - category: political-view
       values:
         - democratic-socialism
-        - anarcho-socialism
-        - identity-politics
+        - anarchism
         - multiculturalism
         - intersectionality
     - category: religious-view
